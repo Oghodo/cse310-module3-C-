@@ -1,32 +1,41 @@
 # Overview
+As a software engineer, my goal with this project was to strengthen my understanding of C# and the .NET ecosystem by building a complete, working console application using object-oriented design principles. I focused on writing clean, readable code while applying core language features in a practical way.
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The software is a console-based Employee Management System that allows users to add, view, and persist employee data. The application supports multiple employee types, demonstrates inheritance and abstraction, and saves data to a file so it can be restored when the program is restarted.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+I wrote this software to deepen my understanding of C# syntax and structure, particularly object-oriented programming concepts such as classes, structures, abstract classes, inheritance, and file input/output. Building this project helped me better understand how C# applications are organized and how different language features work together in a real program.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+A video demonstration of the software is available below. The video shows the program running and includes a walkthrough of the code, with a focus on the C# language features and what I learned while developing the application.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The software was developed using Visual Studio Code with the C# extension installed. The application was built and run using the .NET SDK, which provides the tools needed to compile and execute C# programs.
 
-{Describe the programming language that you used and any libraries.}
+The project was written in C#, using standard .NET libraries such as:
+
+System
+
+System.Collections.Generic
+
+System.IO
+
+These libraries were used for console input/output, collection management, and file handling.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+The following resources were helpful while developing this project and learning C#:
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Microsoft C# Documentation]([http://url.link.goes.here](https://learn.microsoft.com/en-us/dotnet/csharp/))
+- [C# Programming Guid]([http://url.link.goes.here](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/))
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Add input validation to prevent invalid or incorrect user input.
 
-- Item 1
-- Item 2
-- Item 3
+Implement additional employee attributes such as ID numbers and hire dates.
+
+Expand the application with a graphical user interface instead of a console-based menu.
+
+Improve file storage by using JSON or a database instead of a text file.
