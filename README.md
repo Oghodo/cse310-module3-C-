@@ -7,7 +7,7 @@ I wrote this software to deepen my understanding of C# syntax and structure, par
 
 A video demonstration of the software is available below. The video shows the program running and includes a walkthrough of the code, with a focus on the C# language features and what I learned while developing the application.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://www.loom.com/share/b0a437a7be584f809112f1a8f7f8dc19))
 
 # Development Environment
 
